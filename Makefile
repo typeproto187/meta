@@ -23,7 +23,7 @@ DEBUG		?= 0
 REPRODUCIBLE	?= 0
 
 # Board selection
-BOARD		?= pinephone
+BOARD		?= pinephone_defconfig
 
 # Board-specific options
 PLAT		 = sun50i_a64
