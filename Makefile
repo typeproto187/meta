@@ -16,7 +16,7 @@ OUTDIR		 = $(BUILDDIR)/$(BOARD)
 
 # Cross compiler
 CROSS_aarch64	 = aarch64-linux-gnu-
-CROSS_or1k	 = ~/flobe3/or1k-linux-musl-cross/bin/or1k-linux-musl-
+CROSS_or1k	 = or1k-linux-musl-cross/bin/or1k-linux-musl-
 
 # General options
 DEBUG		?= 0
